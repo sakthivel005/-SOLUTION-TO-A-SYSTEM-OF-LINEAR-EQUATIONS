@@ -22,7 +22,8 @@ result=np.linalg.solve(A,B)
 print(result)
 ```
 
-## Output: file:///home/sec/Pictures/Screenshots/Screenshot%20from%202022-12-27%2019-40-13.png
+## Output:
+ file:///home/sec/Pictures/Screenshots/Screenshot%20from%202022-12-27%2019-47-43.png
  
 
 ## Result:
