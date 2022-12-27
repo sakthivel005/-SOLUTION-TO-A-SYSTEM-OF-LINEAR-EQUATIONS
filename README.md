@@ -20,14 +20,11 @@ A=np.array([[1,-3],[3,1]])
 B=np.array([0,10])
 result=np.linalg.solve(A,B)
 print(result)
-
 ```
 
+## Output: file:///home/sec/Pictures/Screenshots/Screenshot%20from%202022-12-27%2019-40-13.png
+ 
 
-
-
-## Output:
- file:///home/sec/Pictures/Screenshots/Screenshot%20from%202022-12-27%2019-40-13.png
-## Result: 
+## Result:
 Thus the solutions for the linear equations are successfully solved using python program
 
